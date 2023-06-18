@@ -1,10 +1,6 @@
 
 if [ -d "./sys" ]
 then
-clear
-echo "-------------------------------------------------"
-echo "  Welcome to Root Terminal - by Jeelan Muhammad  "
-echo "-------------------------------------------------"
 ./dist/proot -S . /bin/bash
 else
 clear
@@ -12,7 +8,7 @@ echo "-----------------------------------"
 echo "---- Root - by Jeelan Muhammad ----"
 echo "-----------------------------------"
 echo "Installing Debian..."
-sleep 1s
+sleep 2s
 clear
 wget -O akuh.zip https://media.githubusercontent.com/media/akuhnet/wqemu/master/akuh.zip
 clear
