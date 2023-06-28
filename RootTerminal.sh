@@ -52,5 +52,6 @@ clear
 echo "-------------------------------------------------"
 echo "  Welcome to Root Terminal - by Jeelan Muhammad  "
 echo "-------------------------------------------------"
+echo "To Run The Bash Write: bash RootTerminal.sh\\"
 ./dist/proot -S . /bin/bash
 fi
