@@ -10,7 +10,6 @@ then
   echo "Please Run This Code:"
   echo "\"wget https://raw.githubusercontent.com/JeelanPro/Files/main/RootTerminal.sh && bash RootTerminal.sh\""
   fi
-fi
 else
 clear
 echo "Do you Have mkdir, wget and unzip if not press \"ctrl + C\""
